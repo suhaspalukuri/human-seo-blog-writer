@@ -153,6 +153,10 @@ Six-phase workflow:
 
 - **1.0.0** — Initial release. Combined SEO/GEO workflow with full humanizer pattern removal. Hard rules: no em dashes, no images, no graphs, prose-only output.
 
+## Made by
+
+**The Half Idea** — [Suhas Palukuri](https://www.linkedin.com/in/suhaspalukuri/) & [Supriya Khanna](https://www.linkedin.com/in/supriyakhannadesigns/)
+
 ## License
 
 MIT
